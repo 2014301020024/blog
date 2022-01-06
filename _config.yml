@@ -4,7 +4,7 @@ author: Ze Yu
 url: https://2014301020024.github.io/zeyu/
 # baseurl修改为项目名，如果项目是'***.github.io'，则设置为空''
 baseurl: "/blog"
-resume_site: 个人简历网站
+resume_site: https://2014301020024.github.io/zeyu/
 github: https://github.com/2014301020024
 github_username: 2014301020024
 # 请到百度统计官网[https://tongji.baidu.com/](https://tongji.baidu.com/)申请自己的网站ID并在此处替换，否则将无法正常统计访问量
